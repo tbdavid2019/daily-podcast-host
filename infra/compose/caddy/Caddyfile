@@ -1,0 +1,7 @@
+{
+  email {$LETSENCRYPT_EMAIL}
+}
+
+:80 {
+  reverse_proxy web:3000
+}
