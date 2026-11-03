@@ -4,11 +4,11 @@
   "version": "0.1.0",
   "packageManager": "pnpm@10.14.0",
   "devDependencies": {
-    "@types/node": "^24.3.0",
-    "@types/pg": "^8.15.5",
-    "@types/react": "^19.1.9",
-    "@types/react-dom": "^19.1.7",
-    "typescript": "^5.9.2"
+    "@types/node": "^26.6.6",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
   },
   "scripts": {
     "build": "pnpm -r build",
